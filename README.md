@@ -4,4 +4,4 @@ Liste des mp3 utilisés (extraits de 30s)
 Source pour wemos D1 - esp8266
 
 Schéma électronique
-([S63Revival_schéma.png](https://github.com/eme2/S63JB/blob/master/S63Revival_schéma.png?ra=true)
+![S63Revival_schéma.png](https://github.com/eme2/S63JB/blob/master/S63Revival_schéma.png?raw=true)
